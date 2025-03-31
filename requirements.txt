@@ -1,0 +1,6 @@
+ollama
+json
+streamlit
+googlesearch
+requests
+bs4
